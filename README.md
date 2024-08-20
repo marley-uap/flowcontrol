@@ -1,4 +1,4 @@
-# Hands On
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/c90bad54-e6db-4565-8907-081ac94e3b60"># Hands On
 ## OBJECTIVE:
 The goal of this activity is to create an application that allows a user to play a number guessing game with a computer. Through this exercise, you will gain hands-on experience using different flow control statements.
 
@@ -9,7 +9,7 @@ The goal of this activity is to create an application that allows a user to play
   
 <details>
   <summary>Solution</summary>
-  <img width="248" alt="image" src="https://github.com/user-attachments/assets/da256b08-ceaa-4f2c-bde1-9b5efa913dd6">
+  <img alt="image" src="https://github.com/user-attachments/assets/da256b08-ceaa-4f2c-bde1-9b5efa913dd6">
 </details>
 3. Create a method named getRandomNumber that returns a whole number from 1 to 5000:
 
@@ -37,4 +37,13 @@ The goal of this activity is to create an application that allows a user to play
 
 10. Delete the print statement in the main method to keep the random number hidden from the user.
 
-  
+  ## DO IT YOURSELF:
+  1. Update the guessNumber method so that for each wrong guess, the application provides a hint whether the number is higher or lower:
+<img alt="image" src="https://github.com/user-attachments/assets/030a789e-d20c-447d-8880-93f7a5cbf6f5">
+
+
+  2. Allow the player to give up. If the user enters 0, print “You Lose! The secret number is __”:
+<img alt="image" src="https://github.com/user-attachments/assets/0fdc434d-5001-4726-931f-93a121693f75">
+
+  3. The game should automatically run for three rounds. At the end of the three rounds, print how many times the user won in the format: “___ over 3 attempts won!”:
+     
