@@ -45,5 +45,5 @@ The goal of this activity is to create an application that allows a user to play
   2. Allow the player to give up. If the user enters 0, print “You Lose! The secret number is __”:
 <img alt="image" src="https://github.com/user-attachments/assets/0fdc434d-5001-4726-931f-93a121693f75">
 
-  3. The game should automatically run for three rounds. At the end of the three rounds, print how many times the user won in the format: “___ over 3 attempts won!”:
+  3. The game should automatically run for three rounds. At the end of the three rounds, print how many times the user won in the format: “___ over 3 attempts won!”: (Check canvas for sample game play)
      
