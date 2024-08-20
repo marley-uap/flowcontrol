@@ -1,4 +1,4 @@
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/c90bad54-e6db-4565-8907-081ac94e3b60"># Hands On
+# Hands On
 ## OBJECTIVE:
 The goal of this activity is to create an application that allows a user to play a number guessing game with a computer. Through this exercise, you will gain hands-on experience using different flow control statements.
 
